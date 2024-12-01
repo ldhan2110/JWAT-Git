@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky",
-    "format": "prettier --write \"src/**/*.js\" \"test/**/*.js\""
+    "format": "prettier --write \"src/**/*.js\""
   },
   "author": "",
   "license": "ISC",
