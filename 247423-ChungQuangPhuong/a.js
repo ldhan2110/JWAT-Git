@@ -1,2 +1,1 @@
-console.log('Hello Chung Quang Phuong');
-console.log('Hello Chung Quang Phuong 1');
+console.log("Hello Chung Quang Phuong");

@@ -1,5 +1,5 @@
-let a = 'asdasdsasda';
+function sum(a, b){
+    return a + b;
+}
 
-let cd = 'dsadsadadas';
-
-console.log('hdsadsadsa');
+console.log(sum(1+2))
